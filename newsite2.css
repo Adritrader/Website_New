@@ -1,0 +1,110 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+  
+    color: #ffffff;
+    border-bottom: black 3px solid;
+    background: linear-gradient(to right, #0138E1, #fff);
+}
+
+.container {
+
+	background-color: white;
+	height: 1055px;
+	width: 1950px;
+	margin: auto;
+
+}
+
+.header {
+
+	height: 70px;
+	width: auto;
+	display: inline-block;
+}
+
+.cintaprecios {
+
+	height: 30px;
+	width: 2400px;
+	display: inline-block;
+	margin: auto;
+}
+
+/*.banner {
+
+	height: 250px;
+	width: 1700px;
+	display: inline-block;
+	margin: auto;
+	margin-top: 10px;
+}*/
+
+.bannerlateral {
+
+	height: 1055px;
+	width: 210px;
+	float: left;
+	background-color: gray;
+	margin-left: 8px;
+	margin-top: 1px;
+}
+
+.bannerlateral2 {
+
+	height: 1055px;
+	width: 210px;
+	float: right;
+	background-color: gray;
+	margin-right: 8px;
+	margin-top: 1px;
+}
+
+.chart {
+
+  	height: 669px;
+  	width: 700px;
+  	position: relative;
+  	float: left;
+}
+
+.cryptomk {
+
+	float: block;
+	margin-top: 1px;
+}	
+
+
+
+.cryptopanic {
+
+	float: left;
+	position: absolute;
+	display: inline;
+	max-width: 340px;
+	max-height: 700px;
+	right: 484px;
+}
+
+.heatmap {
+
+	position: absolute;
+	right: 221px;
+	bottom: 31px;
+	float: block;
+	
+	
+
+}
+
+.twitter-timeline {
+
+	display: inline;
+	float: right;
+	position: absolute;
+}
+
